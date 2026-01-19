@@ -29,7 +29,7 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ## Find Me
 
-[LinkedIn](https://linkedin.com/in/parthtyagi9) • [Portfolio](your-portfolio-link) • [Email](mailto:parthtyagi1204@gmail.com)
+[LinkedIn](https://linkedin.com/in/parth-tyagi45) • [Portfolio](https://parthtyagi.com) • [Email](mailto:parthtyagi1204@gmail.com)
 
 ---
 
