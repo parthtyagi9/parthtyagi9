@@ -14,7 +14,7 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 **[Wellthify](https://github.com/parthtyagi9/Wellthify)** - AI wellness platform with Flask/Node.js backend integrating Google Gemini Pro and Cloud TTS for personalized fitness and mental health support.
 
-**Custom Unix Shell** - Unix-style shell in C with process control, piping, signal handling, and TCP-based client-server communication using POSIX sockets and select() for multi-client support.
+**Unix Shell** - Unix-style shell in C with process control, piping, signal handling, and TCP-based client-server communication using POSIX sockets and select() for multi-client support.
 
 **Shadow Monster Game** - Console adventure game written entirely in RISC-V assembly with dynamic AI, pseudorandom generation, and memory-efficient data structures.
 
