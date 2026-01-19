@@ -20,11 +20,11 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ## Core Competencies
 ```text
-Backend Engineering    ████████████████████░   95%
-Systems Programming    ██████████████████░░░   90%
-AI/ML Integration      ███████████████████░░   92%
-Cloud Infrastructure   ████████████████░░░░░   85%
-Full-Stack Development ████████████████░░░░░   85%
+[████████████████████░] Backend Engineering    → 95%
+[██████████████████░░░] Systems Programming    → 90%
+[███████████████████░░] AI/ML Integration      → 92%
+[████████████████░░░░░] Cloud Infrastructure   → 85%
+[█████████████████░░░░] Full-Stack Development → 88%
 ```
 
 ## Tech Stack
