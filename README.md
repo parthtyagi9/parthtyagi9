@@ -6,17 +6,15 @@ Computer Science & Statistics student at the University of Toronto building scal
 
 I work across the full stack with a focus on backend infrastructure, cloud deployment, and AI/ML integration. My experience ranges from low-level systems programming in C and RISC-V assembly to building production-ready APIs with FastAPI and React frontends.
 
-Currently working as a Software Engineer at UofT CSSC, where I build AI-powered tools and infrastructure for student services. Previously interned at Esya Technologies, optimizing ETL pipelines and implementing PII detection systems on AWS.
-
 ## Recent Projects
 
 **[Scanalytics](https://github.com/parthtyagi9/Scanalytics)** - Multi-agent AI analytics engine built with FastAPI and Gemini 2.0 for automated KPI discovery and SQL generation. Features React interface for TypeScript SDK distribution and Pydantic-based schema validation.
 
 **[ThetaStrike](https://github.com/parthtyagi9/ThetaStrike)** - Full-stack options pricing platform implementing Black-Scholes, binomial models, and Monte Carlo simulations. Built with FastAPI, React, and scikit-learn ML models for volatility forecasting.
 
-**Custom Unix Shell** - Unix-style shell in C with process control, piping, signal handling, and TCP-based client-server communication using POSIX sockets and select() for multi-client support.
-
 **[Wellthify](https://github.com/parthtyagi9/Wellthify)** - AI wellness platform with Flask/Node.js backend integrating Google Gemini Pro and Cloud TTS for personalized fitness and mental health support.
+
+**Custom Unix Shell** - Unix-style shell in C with process control, piping, signal handling, and TCP-based client-server communication using POSIX sockets and select() for multi-client support.
 
 **Shadow Monster Game** - Console adventure game written entirely in RISC-V assembly with dynamic AI, pseudorandom generation, and memory-efficient data structures.
 
