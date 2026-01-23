@@ -40,6 +40,7 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
