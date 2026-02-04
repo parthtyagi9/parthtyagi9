@@ -22,11 +22,6 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ---
 
-### DevOps & Tooling
-|  |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|
-| ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) | ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white) |
-
 ## Recent Projects
 
 **[Scanalytics](https://github.com/parthtyagi9/Scanalytics)** - Multi-agent AI analytics engine built with FastAPI and Gemini 2.0 for automated KPI discovery and SQL generation. Features React interface for TypeScript SDK distribution and Pydantic-based schema validation.
