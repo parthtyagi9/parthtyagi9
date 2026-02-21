@@ -32,10 +32,6 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 **Shadow Monster Game** - Console adventure game written entirely in RISC-V assembly with dynamic AI, pseudorandom generation, and memory-efficient data structures.
 
-## GitHub Stats
-
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthtyagi9)](https://github.com/parthtyagi9/github-readme-stats)
-
 ## Find Me
 
 [LinkedIn](https://linkedin.com/in/parth-tyagi45) • [Portfolio](https://parthtyagi.com) • [Email](mailto:parthtyagi1204@gmail.com)
