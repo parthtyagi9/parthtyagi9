@@ -34,7 +34,7 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ## GitHub Stats
 
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthtyagi9)](https://github.com/anuraghazra/github-readme-stats)
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthtyagi9)](https://github.com/parthtyagi9/github-readme-stats)
 
 ## Find Me
 
