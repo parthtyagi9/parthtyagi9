@@ -34,12 +34,7 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=parthtyagi9&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthtyagi9&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
-</a>
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthtyagi9)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find Me
 
