@@ -43,13 +43,15 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ```javascript
 const parth = {
-  yearsOfExperience: 3,
+  name: Parth Tyagi
+  location: Toronto, ON
+  yearsOfExperience: 3+,
   projectsBuilt: "15+",
   technologies: ["Python", "Java", "C", "AWS", "Docker", "TensorFlow", "PostgreSQL"],
   yearOfStudy: "3rd Year",
   university: "University of Toronto",
   major: ["Computer Science", "Applied Math"],
-  skills: ["Backend Development", "Machine Learning", "Data Engineering", "Full Stack Development"]
+  skills: ["Backend Development", "Machine Learning", "Data Engineering", "Full Stack"]
 };
 ```
 
