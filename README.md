@@ -41,7 +41,7 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 *Building systems that scale, one commit at a time.*
 
 
-```
+```javascript
 const parth = {
 
   yearsOfExperience: 3,
@@ -60,3 +60,5 @@ const parth = {
 
 };
 ```
+
+
