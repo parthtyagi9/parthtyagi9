@@ -43,8 +43,8 @@ I work across the full stack with a focus on backend infrastructure, cloud deplo
 
 ```javascript
 const parth = {
-  name: Parth Tyagi,
-  location: Toronto,
+  name: "Parth Tyagi",
+  location: "Toronto",
   yearsOfExperience: 3+,
   projectsBuilt: "15+",
   technologies: ["Python", "Java", "C", "AWS", "Docker", "TensorFlow", "PostgreSQL"],
