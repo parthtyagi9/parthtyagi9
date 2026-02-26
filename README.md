@@ -1,6 +1,6 @@
 # Hi, I'm Parth
 
-Computer Science & Statistics student at the University of Toronto building scalable backend systems and AI-powered applications. I specialize in systems programming, distributed architectures, and machine learning engineering.
+Computer Science & Statistics student at the University of Toronto building scalable backend systems and AI-powered applications. I specialize in systems programming, distributed architectures, and machine learning engineering. 
 
 ## What I Do
 
